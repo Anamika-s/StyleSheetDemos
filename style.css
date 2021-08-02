@@ -1,0 +1,26 @@
+            *
+            {
+                margin: 0;
+            }
+            #para1
+            {
+                background-color: yellow;
+            }
+            .para
+            {
+                background-color: royalblue;
+                width: 50%;
+                height: 100px;
+            }
+            h1{
+                 border-color:yellow;
+                 border-style: double;
+                font-size: xx-large;
+                 color: green;
+            }
+            body{
+                background-color: azure;
+            color: tomato;
+                /* margin: 100px; */
+                font-weight: bolder;
+            }   
