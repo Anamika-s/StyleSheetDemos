@@ -1,0 +1,22 @@
+{
+    
+    // Configure file associations to languages (e.g. "*.extension": "html"). These have 
+    //precedence over the default associations of the languages installed.
+    "files.associations":  { "*.html": "html" },
+
+"workbench.colorTheme":"Visual Studio 2019 Light",
+"workbench.activityBar.visible": true,
+"editor.multiCursorModifier": "ctrlCmd",
+"window.zoomLevel": 3,
+"html.suggest.html5": true,    
+"html.autoClosingTags": true,
+
+"editor.inlineSuggest.enabled": true,
+"html.format.endWithNewline": true,
+"html.format.indentHandlebars": true,
+
+"html.format.contentUnformatted": "",
+"html.format.indentInnerHtml": true,
+"html.format.unformatted": "wbr",
+"html.format.extraLiners": ""
+}
